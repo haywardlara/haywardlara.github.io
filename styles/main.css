@@ -55,7 +55,7 @@ img{
     padding: 5px;
 }
 
-#post1{
+.post{
     border-style: double;
     border-radius: 20px;
     padding: 15px;
